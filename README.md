@@ -1,5 +1,5 @@
 # Game Theory
-It is a code repository for Game Theory. Algorithms, Strategies and Articles are present in this repository.
+It is a code repository for Game Theory. Algorithms, Strategies and Articles are present in this repository.	
 
 ## Community Channel
 
